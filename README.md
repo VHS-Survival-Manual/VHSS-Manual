@@ -1,5 +1,11 @@
 # **《中专生存手册》**
 
+<p>
+  <a href="https://github.com/VHSchool-Survival-Manual/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
+  <a href="https://vim.org"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"></a>
+  <a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" width="5%" alt="知乎"></a>
+</p>
+
 ## **关于**
 
 今年新年，我看见了一本名叫“上海交通大学学生生存手册”的小册子，看完后大受启发，于是便打算照葫芦画瓢，
@@ -30,3 +36,7 @@
 ### **技术要求**
 
 要求不多，只需要肚子里有墨水就可以，当然，我们也欢迎会 **LaTeX** 的同袍加入我们的组织。
+
+---
+
+图标来自：[awesome-badges](https://github.com/Envoy-VC/awesome-badges)
