@@ -37,6 +37,16 @@
 
 要求不多，只需要肚子里有墨水就可以，当然，我们也欢迎会 **LaTeX** 的同袍加入我们的组织。
 
+### **如何更新**
+
+如果你要上传，请先联系邮箱
+
+```git
+git clone https://github.com/VHSchool-Survival-Manual/VHSS-Manual.git
+git branch -r
+git pull origin main
+```
+
 ---
 
 图标来自：[awesome-badges](https://github.com/Envoy-VC/awesome-badges)
