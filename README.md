@@ -1,9 +1,9 @@
-# **《中专生存手册》**
+# **《中专生存手册》 README 文件**
 
 <p>
   <a href="https://github.com/VHSchool-Survival-Manual/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
   <a href="https://vim.org"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"></a>
-  <a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" width="7%" alt="知乎"></a>
+  <a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" width="8%" alt="知乎"></a>
 </p>
 
 ## **关于**
