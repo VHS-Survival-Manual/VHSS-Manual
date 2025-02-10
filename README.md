@@ -1,4 +1,4 @@
-# **《中专生存手册》 README 文件**
+# **《中职生存手册》 README 文件**
 
 <p>
   <a href="https://github.com/VHSchool-Survival-Manual/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
@@ -39,13 +39,21 @@
 
 ### **如何更新**
 
-如果你要上传，请先联系邮箱
+如果你要上传，请先联系我们的邮箱
 
 ```git
 git clone https://github.com/VHSchool-Survival-Manual/VHSS-Manual.git
 git branch -r
 git pull origin main
 ```
+
+### **社交媒体**
+
+**知乎：** [https://www.zhihu.com/people/EasonZhou](https://www.zhihu.com/people/EasonZhou)
+
+**作者邮箱：**
+- **easonzhou0801@163.com**
+- **653883131@qq.com**
 
 ---
 
