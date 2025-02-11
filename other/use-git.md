@@ -56,9 +56,12 @@ git clone https://github.com/VHSchool-Survival-Manual/VHSS-Manual.git
 # 解压并进入该目录
 cd <名称>\
 
-# 拉取最新版本
-git pull origin main
+# 查看当前项目状态
+git status
+
 ```
+
+如果显示一些其他问题，先：`git pull origin main`
 
 目前整个项目只有一个 `main` 分支，请不要擅自创建其他分支！
 
