@@ -1,19 +1,15 @@
-# **《中职生存手册》 README 文件**
+# **《中职生存手册》**
 
 <p>
   <a href="https://github.com/VHSchool-Survival-Manual/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
-  <a href="https://vim.org"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"></a>
-  <a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" width="8%" alt="知乎"></a>
+  <a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" alt="知乎"></a>
 </p>
 
 ## **关于**
 
-今年新年，我看见了一本名叫“上海交通大学学生生存手册”的小册子，看完后大受启发，于是便打算照葫芦画瓢，
-也写一份属于职高生的“生存手册”。
+今年新年，我看见了一本名叫“上海交通大学学生生存手册”的小册子，看完后大受启发，于是便打算照葫芦画瓢，也写一份属于职高生的“生存手册”。
 
-很明显，作者们都是来自五湖四海的职高毕业生或在校生，都拥有同样的经历，而我们选择编写它就是为了让更多
-想要进步的同志们在黑暗中看到希望的曙光，我们想看到拥有上进心、力求进步的同学在职高的环境中沉沦下去，
-于是手册便诞生了。
+很明显，作者们都是来自五湖四海的职高毕业生或在校生，都拥有同样的经历，而我们选择编写它就是为了让更多想要进步的同志们在黑暗中看到希望的曙光，我们想看到拥有上进心、力求进步的同学在职高的环境中沉沦下去，于是手册便诞生了。
 
 ## **我们的目标**
 
@@ -38,13 +34,14 @@
 
 ### **如何更新**
 
-如果你要上传，请先联系我们的邮箱
+使用以下的命令：
 
 ```git
-git clone https://github.com/VHSchool-Survival-Manual/VHSS-Manual.git
+git clone https://github.com/VHS-Survival-Manual/VHSS-Manual.git
 git branch -r
 git pull origin main
 ```
+不会用 **Git**? 可以看看[我们的教程](https://github.com/VHSchool-Survival-Manual/our-tutorials)
 
 ### **社交媒体**
 
