@@ -46,8 +46,7 @@ git clone https://github.com/VHS-Survival-Manual/VHSS-Manual.git
 git branch -r
 git pull origin main
 ```
-不会用 **Git**? 可以看看[我们的教程](https://github.com/VHSchool-Survival-Manual/our-tutorials/Git/)
-
+不会用 **Git**? 可以看看[我们的教程](https://github.com/VHS-Survival-Manual/our-tutorials/tree/main/Git)
 ### **社交媒体**
 
 **作者邮箱：**
