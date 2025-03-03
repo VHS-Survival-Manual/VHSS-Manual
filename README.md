@@ -1,17 +1,12 @@
 # **《中职生存手册》VHSS Survival Manual**
 
-<p>
-  <a href="https://github.com/VHSchool-Survival-Manual/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
-  <a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" alt="知乎"></a>
-</p>
-
 ## **关于**
 
 今年新年，我看见了一本名叫[“上海交通大学学生生存手册”](https://survivesjtu.gitbook.io/survivesjtumanual)的小册子，看完后大受启发，于是便打算照葫芦画瓢也写一份属于职高生的“生存手册”。
 
 很明显，作者们都是来自五湖四海的职高毕业生或在校生，都拥有同样的经历，而我们选择编写它就是为了让更多想要进步的同志们在黑暗中看到希望的曙光，我们想看到拥有上进心、力求进步的同学在职高的环境中沉沦下去，于是手册便诞生了。
 
-截止目前（25年3月）尽管没有新的作者加入我们的组织（笑）而且更新缓慢，所以这个项目多少都有点自娱自乐的意思（苦笑）
+_截止目前（25年3月）尽管没有新的作者加入我们的组织（笑）而且更新缓慢，所以这个项目多少都有点自娱自乐的意思（苦笑）_
 
 ### **我们的目标**
 
@@ -26,13 +21,21 @@
 
 ### **编写计划**
 
-目前项目刚刚启动还没有更多人手，所以项目更新会很慢。目前（25.2.10）我们打算每周更新一次，因为我们也只有周末的时间是完整属于自己的。
+项目更新会非常，我们需要做的。目前（25.2.10）我们打算每周更新一次，因为我们也只有周末的时间是完整属于自己的。
 
-本项目在近几年的时间内都不会有太大的热度，对于最终完整的手册文件可能需要两年时间才能完工。道阻且长。
+本项目在近几年的时间内都不会有太大的热度，对于最终完整的手册文件可能需要很长时间才能完成。道阻且长。
 
 ### **技术要求**
 
-我们只需要你的想法，当然我们也欢迎会 **LaTeX** 的同袍加入我们的[组织](https://github.com/VHSchool-Survival-Manual/)。o
+我们只需要你的想法，当然我们也欢迎会 **LaTeX** 的同袍加入我们的[组织](https://github.com/VHSchool-Survival-Manual/)。如果你也会一些更专业的东西当然也欢迎你的加入：
+
+- 艺术设计、美术绘画、美普
+- 机械、机电、CAD
+- 旅游、服务业
+- 计算机
+- 会计、经贸
+
+凡是涉及到职业高中的专业学科，我们都欢迎对应的技能人才联系我们。
 
 ### **如何更新**
 
@@ -47,12 +50,9 @@ git pull origin main
 
 ### **社交媒体**
 
-**知乎：** [https://www.zhihu.com/people/EasonZhou](https://www.zhihu.com/people/EasonZhou)
-
 **作者邮箱：**
 - **easonzhou0801@163.com**
 - **653883131@qq.com**
 
----
+<p><a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" alt="知乎"></a></p>
 
-图标来自：[awesome-badges](https://github.com/Envoy-VC/awesome-badges)
