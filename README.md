@@ -32,7 +32,7 @@ _截止目前（25年3月）尽管没有新的作者加入我们的组织（笑�
 - 艺术设计、美术绘画、美普
 - 机械、机电、CAD
 - 旅游、服务业
-- 计算机
+- 计算机、VR
 - 会计、经贸
 
 凡是涉及到职业高中的专业学科，我们都欢迎对应的技能人才联系我们。
@@ -49,9 +49,8 @@ git pull origin main
 不会用 **Git**? 可以看看[我们的教程](https://github.com/VHS-Survival-Manual/our-tutorials/tree/main/Git)
 ### **社交媒体**
 
-**作者邮箱：**
+**联系方式：**
 - **easonzhou0801@163.com**
 - **653883131@qq.com**
-
-<p><a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" alt="知乎"></a></p>
+- <p><a href="https://www.zhihu.com/people/EasonZhou"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" alt="知乎"></a></p>
 
